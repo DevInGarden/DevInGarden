@@ -3,7 +3,7 @@
 
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Skill ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -46,5 +46,5 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jwkim97211)](https://solved.ac/jwkim97211)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lkwe998)](https://solved.ac/lkwe998)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211)](https://github.com/anuraghazra/github-readme-stats)
