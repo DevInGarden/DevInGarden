@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-![jeongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[jeongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211&show_icons=true&theme=radical)
 </div>
 
 <!--내용 부분-->
