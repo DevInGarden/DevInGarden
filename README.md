@@ -1,9 +1,3 @@
-<!--타이틀 부분-->
-<div align="center">
-![Jeongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211&show_icons=true&theme=radical)
-</div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -50,3 +44,4 @@
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jwkim97211)](https://solved.ac/jwkim97211)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211)](https://github.com/anuraghazra/github-readme-stats)
