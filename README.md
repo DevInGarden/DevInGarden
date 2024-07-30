@@ -27,8 +27,11 @@
 <br>
 
 <div align=center>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lkwe998)](https://solved.ac/lkwe998)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<br>
+
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211)](https://github.com/anuraghazra/github-readme-stats)
 </div>
