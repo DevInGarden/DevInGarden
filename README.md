@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome%20to&desc=Jeongwon's%20Github&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-<p align="center">
+<h3 align="center">
  ✨💻 웹 개발자를 목표로 공부하고 있습니다! 💻✨
-</p>
+</h3>
 
 <!--내용 부분-->
 <h3 align="center">✨ Skill ✨</h3>
