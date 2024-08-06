@@ -37,3 +37,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkim97211)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+# PROJECT
+> 진행한 프로젝트 목록입니다. 
+
+  - [K-Digital 미니 프로젝트 Metronom](https://github.com/jwkim97211/project1)
+    - 부산대학교 K-Digital AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 트레이닝 과정을 수강하며 진행한 프로젝트 저장소입니다.
+    - 개발 기간 : 2024.06.03 ~ 2024.06.28
+    - 개발 목적 : 이 프로젝트는 승객들이 지하철 혼잡도를 사전에 확인할 수 있도록 하여, 혼잡한 시간대를 피하거나 적절한 차량을 선택하는 데 도움을 주는 것을 목표로 합니다. 이를 통해 승객의 편의성과 안전성을 높이고, 대중교통 이용률을 증가시켜 교통 혼잡을 줄이며, 전체적인 대중교통 효율성을 개선하는 선순환을 이루고자 합니다.
+    - 사용 스킬 : React, React-router-dom, React-img-mapper, Recoil, Tailwindcss, Figma, Spring-boot, MySQL 등
+   
+  - [K-Digital AI 분석 프로젝트 H₂Optimizer](https://github.com/jwkim97211/project2)
+    - 부산대학교 K-Digital AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 트레이닝 과정을 수강하며 진행한 프로젝트 저장소입니다.
+    - 개발 기간 : 2024.07.07 ~ 2024.07.26
+    - 개발 목적 : 
+    - 사용 스킬 : React, React-router-dom, Recoil, Tailwindcss, React-recharts, React-flow, Flask 등
+
