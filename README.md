@@ -26,8 +26,9 @@
 <br>
 <div align=center>
   <h3 align="center">📊 Baekjoon Stats 📊 </h3>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lkwe998)](https://solved.ac/lkwe998)
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkwe998)](https://solved.ac/lkwe998)
 
 </div>
 
